@@ -69,4 +69,4 @@ sort.Slice(vs, func(i, j int) bool {
 MIT
 
 # Author
-Teppei Fukuda
+KhulnaSoft DevOps
